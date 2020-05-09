@@ -125,7 +125,7 @@ const symbols = {
   yinYang: '☯',
   latinCross: '✝',
   orthodoxCross: '☦',
-  starandCrescent: '☪',
+  starAndCrescent: '☪',
   peaceSymbol: '☮',
   menorah: '🕎',
   dottedSixPointedStar: '🔯',
