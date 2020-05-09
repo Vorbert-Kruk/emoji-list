@@ -231,8 +231,8 @@ const people = {
   familyWomanGirlBoy: '👩‍👧‍👦',
   familyWomanGirlGirl: '👩‍👧‍👧',
   speakingHead: '🗣',
-  bustinSilhouette: '👤',
-  bustsinSilhouette: '👥',
+  bustInSilhouette: '👤',
+  bustsInSilhouette: '👥',
 };
 
 export default people;
