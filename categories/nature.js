@@ -47,7 +47,7 @@ const nature = {
   shootingStar: '🌠',
   cloud: '☁',
   sunBehindCloud: '⛅',
-  cloudwithLightningandRain: '⛈',
+  cloudwithLightningAndRain: '⛈',
   sunBehindSmallCloud: '🌤',
   sunBehindLargeCloud: '🌥',
   sunBehindRainCloud: '🌦',

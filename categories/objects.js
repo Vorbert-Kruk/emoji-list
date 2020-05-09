@@ -3,7 +3,7 @@ const objects = {
   hole: '🕳',
   bomb: '💣',
   personTakingBath: '🛀',
-  personinBed: '🛌',
+  personInBed: '🛌',
   kitchenKnife: '🔪',
   amphora: '🏺',
   worldMap: '🗺',
