@@ -162,14 +162,14 @@ const objects = {
   hammer: '🔨',
   axe: '🪓',
   pick: '⛏',
-  hammerandPick: '⚒',
-  hammerandWrench: '🛠',
+  hammerAndPick: '⚒',
+  hammerAndWrench: '🛠',
   dagger: '🗡',
   crossedSwords: '⚔',
   pistol: '🔫',
   shield: '🛡',
   wrench: '🔧',
-  nutandBolt: '🔩',
+  nutAndBolt: '🔩',
   gear: '⚙',
   clamp: '🗜',
   balanceScale: '⚖',
@@ -192,7 +192,7 @@ const objects = {
   stethoscope: '🩺',
   door: '🚪',
   bed: '🛏',
-  couchandLamp: '🛋',
+  couchAndLamp: '🛋',
   chair: '🪑',
   toilet: '🚽',
   shower: '🚿',
@@ -211,7 +211,7 @@ const objects = {
   coffin: '⚰',
   funeralUrn: '⚱',
   moai: '🗿',
-  potableWater: '🚰'
+  potableWater: '🚰',
 };
 
 export default objects;
