@@ -36,3 +36,7 @@ const emojis = require('./emojis');
 
 console.log(emojis.smileys.winkingFace);
 ```
+
+# Suggestion and contribution
+
+If you'd have some suggestions or ideas of how to improve the quality of the list, then feel free to contribute in this repo :)
