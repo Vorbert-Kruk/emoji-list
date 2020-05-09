@@ -212,6 +212,7 @@ const objects = {
   funeralUrn: '⚱',
   moai: '🗿',
   potableWater: '🚰',
+  jackOLantern: '🎃',
 };
 
 export default objects;

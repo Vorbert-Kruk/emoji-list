@@ -92,7 +92,7 @@ const smileys = {
   smilingFacewithHorns: '😈',
   angryFacewithHorns: '👿',
   skull: '💀',
-  skullandCrossbones: '☠',
+  skullAndCrossbones: '☠',
   pileofPoo: '💩',
   clownFace: '🤡',
   ogre: '👹',

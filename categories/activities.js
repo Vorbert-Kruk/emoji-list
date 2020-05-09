@@ -58,9 +58,9 @@ const activities = {
   militaryMedal: '🎖',
   trophy: '🏆',
   sportsMedal: '🏅',
-  '1stPlaceMedal': '🥇',
-  '2ndPlaceMedal': '🥈',
-  '3rdPlaceMedal': '🥉',
+  firstPlaceMedal: '🥇',
+  secondPlaceMedal: '🥈',
+  thirdPlaceMedal: '🥉',
   soccerBall: '⚽',
   baseball: '⚾',
   softball: '🥎',
@@ -108,7 +108,7 @@ const activities = {
   violin: '🎻',
   drum: '🥁',
   clapperBoard: '🎬',
-  bowandArrow: '🏹'
+  bowAndArrow: '🏹',
 };
 
 export default activities;

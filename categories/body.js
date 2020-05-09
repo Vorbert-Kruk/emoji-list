@@ -48,6 +48,7 @@ const body = {
   tongue: '👅',
   mouth: '👄',
   kissMark: '💋',
+  footprints: '👣',
 };
 
 export default body;
